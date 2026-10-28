@@ -201,16 +201,3 @@ npx cdk destroy --all
 
 Review the resources and dependencies before confirming deletion. Verify the AWS account afterward for any remaining billable resources, data, or infrastructure that requires separate cleanup.
 
-## License and Attribution
-
-This project is based on the AWS Samples repository:
-
-https://github.com/aws-samples/document-processing-pipeline-for-regulated-industries
-
-The upstream project is distributed under the Apache License 2.0. Review the original LICENSE and NOTICE files and preserve applicable copyright and attribution notices when redistributing or modifying the code.
-
-If you extend this project for a portfolio, clearly document your own modifications, additional components, tests, and deployment work.
-
-## Disclaimer
-
-This repository demonstrates an AWS-based document processing architecture. Deployment requirements, service availability, costs, and security configurations depend on the environment. Validate all resources and configurations before using the solution with sensitive or regulated data.
